@@ -29,6 +29,10 @@ const items = [
         color : 'blue',
         img : 'blue.jpg',   
         img2 : 'one.png', 
+    },
+    {
+        name: 'Calculator',
+        color : 'purple',
     }
 
 ];
